@@ -5941,6 +5941,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 292390bfbd85e8b4bb23091cede1fa8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  mainCamera: {fileID: 602793892}
   speed: 6
 --- !u!54 &863399345
 Rigidbody:
